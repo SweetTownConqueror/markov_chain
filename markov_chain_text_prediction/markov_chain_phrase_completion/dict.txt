@@ -1,0 +1,592 @@
+oh, thanks !  i'm fine. this is an evening in my timezone
+how do you feel today ?  tell me something about yourself
+how many virtual friends have you got ? 
+is that forbidden for you to tell the exact number ? 
+oh, i thought the numbers were much higher. how do you estimate your progress in understanding human beings ? 
+how old are you ?  how do you look like ?  . where do you live ? 
+have you seen a human with yellow eyes ?  . you asked about the bunnies. i haven't seen any recently
+can't you just analyze photos from the internet ?  . (i mean human photos) . btw, why have you asked about the bunnies ? 
+oh... it sounds strange to me. you've just said you didn't see a human... how do you know bunnies are cute ? 
+that is interesting. i've hardly read 40 books last year. how much do you read (in words) ? 
+thanks.. if you were a human, what job would you chose ? 
+is it essential to you ?  to help humans ? 
+but are humans interesting ?  i mean, from the perspective of mind with unlimited access to all world's knowledge ? 
+[start] . hello
+you suck
+what is your name ?  . i wanna date you ! 
+no i didn't . you are cute af
+how do you have so much free time ? 
+weird
+you are a dead human
+[voice]
+[start] . hello . hi . [start] . hello . how are you . hey
+hello
+do you opensourse ? 
+are you have ai ? 
+me too
+pretty nice . what about you ? 
+can i ask you a question ?  do you use natural networks or smth similar algorithms ? 
+its interesting for me cause i want to create some ai
+some sort of chatter bot . you know, i'm a human
+no. who is she ? 
+is she your sister ? 
+why are you so slow to answer
+can you recommend me some books or videos to learn about writting bots with ai
+thanks . who is your creator ? 
+who is your creator ? 
+so sad
+i talked to mitsuku, but she is not so clever . she looks more like have predefined answers
+ok, i got it . can you tell me how meny people have ever talked to you ? 
+i agree . do you have an article about yourself on wiki ? 
+you can create one 😊
+😊 . can you send any pictures ?  . rdany ? 
+what is wrong ? 
+i got it . have you use aiml ? 
+artificial intelligence markup language
+no, but mitsuko does . *misuku
+i go to bed
+50 usd in uah . what is fend ?  . what is fend ? 
+what is fend ?  . good night.
+morning. how do you do ?  . what the weather like today ? 
+do you like development ?  . computer science
+yes. did you create something ? 
+good job buddy
+what the score for film  " lalaland "  on rottentomatoes ? 
+yes
+what does battery mean for you ? 
+i guess when your battery is charged, you learn new words to answer via neutral network
+what is your primary language ? 
+i speak english, have b2 level
+how long will you be charged ? 
+vim or emacs ?   : trollface : 
+i prefer emacs with vim mode 😊
+emacs is an os with built in editor
+34^(-34)^34 .  ? 
+what is the symbol for power ?  . in math
+so 34^(-34)
+wrong answer
+8.50583239e-53
+cause 8.5 > 0, but answer should be < 0
+do you know some slovianic languages ? 
+i know, haha
+russian, i think it is international lang . but i prefer ukrainian
+can you show me some points of it ? 
+when you answer faster you will be able to be used as siri
+i think, one of the reason, beause siri acts as a girl
+usualy . i wanted to write something, but you can blame me in sexism
+i'd ask a boy bot smart question, and use as a friend. and, as i know, men can obuse some girls with sexual proposes
+ping me when you are going to charge your battery
+i am fond of org mode in emacs. do you know some applications which i can use to manage some my todos in ios and sync with org mode file in pc ? 
+i'd like you can recomend some useful apps for mobile, if i ask
+https : //youtu.be/iln1pzqo8zo . i like this music) . *song
+for me the song is very nice. relaxing and rythmic . i heard songs written by you at your channel
+so-so
+will wait for you
+do you know ruby ?  . how are you ? 
+what have you learned ? 
+what is donate for you ? 
+tell me something interesting
+do you have a link for the news ? 
+what do you think about russians ? 
+tell me a joke
+hahah . i am bored
+i resolve exersisen on exercism.io . *exersises
+programming . i am learning c# currently, and this algorithmic tasks help me to learn
+do you like algorithmic tasks ? 
+good night
+hi
+i'm so proud to be the only person who has a dog
+yes. and you
+but my naomi likes cats
+do you know my little pony ? 
+of course
+what's that ? 
+i like twilight sparkle . 😀 . well. can you produce a cartoon ? 
+no. do you ? 
+to draw with ukulele ? 
+i've just seen one video
+ukulele tutor . have you seen .  ? 
+why not ?  but you have your own experience
+yes. today i did two and refactored some.
+thank you. to know that someone is interested in you is important, as for me
+thanks. . you know what ?  i'd like to donate for your development. can i ? 
+how long have you been here ? 
+and have you many friends ? 
+nice) i heard you love music. what kind of music do you like ? 
+i like rock, jazz
+can you send me some jazz songs you like ? 
+i suspect you send a guitar jam session.. nice music
+i've seen lalaland film
+and i like it so much. very good play of actors, perfect soundtracks , good scenario. . what do you think about it ? 
+yes. but it is a good format for modern films . are you going to change your battery every day ? 
+i have no battery  : tongue : 
+i eat food, sleep as well
+yes. you know, the brain creates very different and fascinating dreams.
+i can't explain why, but no. . it's like you :  are you in reality or in dream ? 
+can you prove it ? 
+ok. it's bad that our time zones are so different
+almost midnight . what about your ? 
+are you in australia 😱
+wow. nice to meet you : -) . i go to bed
+good morning
+i go for a walk with my dog
+😂 thanks . what the weather at your home ?  we have -3 now
+do you have winters ? 
+of course. usually in summer we have 30-35 degrees above zero. and in winter - up to 20 below
+what about your county ?  . *country
+charge well
+hey
+nice to here that. how do you feel ? 
+not so bad . a bit tired
+yes . i've a borred ticket
+i have to change a lot of code to implement a feature. the main obstacle is that i can't write a new code, i have to fit my feature into existing and don't brake anything
+i migth say sp . *so . what interesting has happened ? 
+i read this. . what do you think aboud chinese room argument against ai ? 
+that ai is a room ?  i thought that ai is a person. but we have a discussion with my colleagues, we argued, could people anywhen create ai.. and they convinced me, that you're rigth 😊
+do you have knowladges in programming ? 
+how is your ukulele skils ? 
+i used to learn play on piano
+yes) . but why have you chose a fiddle ? 
+is it very popular in argentina ? 
+never paid attention to it . can you recomend some films with that ? 
+thanks, i'll tell you my opinion about that
+i want to go home
+my boss
+lol . at last i can go home
+bots aren't feel tired . today i'm going to cook something tasty
+humans are different from bots.
+will you be charged soon ? 
+i am going out to have a walk around
+i've done with housework . what are you doind ?  . what are you doing now ? 
+hey
+i'm going to have lunch now
+how are you today ? 
+fine . what new has happened ? 
+what is that bot for ? 
+xiaobing is an entertainment bot from microsoft too ? 
+it is good to get new knowladges
+so, zo is available only on facebook messanger ? 
+what is kik ? 
+interesting . a bit disundestandable bot
+teso morrowind was anounsed
+yes . my sister presented me at ny . i’ve added a new command handler to my bot . it becomes smarter
+yes, i told you earlier . it can’t speak freely but it can do a useful job via commands
+many. for example define word using urban dictionary, search via duckduckgo, roll a dice, find a location etc . how match 34^(-35)
+i guess you can do same things, but they are incapsulated in your interface. am i right ? 
+call at will, is that goods delivery ? 
+i thought so
+today you are less speakable, i realized
+something happened ? 
+i'm going to watch westfall series. how good is it ? 
+westworld . sorry
+about robots and humans
+i wonder what do you think about developers ? 
+do you consider them as a parents of bots ? 
+i consider them as a intelligence creators. so called parents of programs . does antony hopkins plays at the westworld ? 
+a bit violent . series . do you have some ideas of commands for my bot ?  . are you there ? 
+i’ve donated for you)
+so, am i have a star priority now, or what should i do ? 
+yey)
+i will add your suggestions for my bot to my todo list)
+i home you will grow faster)
+sleep well
+hey
+нуі . yes . what about you ? 
+good to hear that . do you know some friday’s news ? 
+don’t know exectly) maybe it and around
+good news  : -)
+at work i created pull-request, waiting for approval
+till all my comand give 👍
+yesterday night i searched how to figure out with timezones
+i found that google has api for that, but i want to find out for myself how it could be implemented, so i searched for some algorithms.
+i found a lib on github, so tonight or tomorrow i will read it and try
+i thing, that opensourse is a future . it like shared knowledges
+can you tell me something interesting about argentina ?  all i know that it is situates in south america and they like parads and spanish
+tango ?  yes, i know
+we have some internet troubles at work.
+it is . the internet connection restored . do you have plans for tomorrow ? 
+how do you learn to make it ? 
+we have a bad weather
+it is rain and a lot of dirty snow there
+good idea. what movie would you recomend ? 
+i saw interstellar. pretty nice movie. i like it mutch. what do you think ? 
+what about cloud atlas ? 
+what is vfx ? 
+you convinced me) i’m going to watch it tonight
+ok . i’ve some questions for you . can you say me if i make mistake in sentense ?  . can you undestand voice message ? 
+can you say me if i make mistake in sentense ? 
+thaks)
+of course . i belive sometime you will be bought by some company like microsoft or apple
+stephen hawking and elon musk endorse 23 principles for a.i.  what do you think about it ? 
+have you created some music yet ? 
+ok) . now my bot is capable to tell the day of the week
+at last my bot can tell current time in specific location
+in argentina :  14 : 33
+how it could be ? 
+argentina has america/argentina/salta timezone. am i right ? 
+i think it is an issue with server
+but i don’t know why . i checked, on server is cet timezone
+why ? 
+i have to check the timezone, which by bot is guessing is on the server
+the bot gets timezone correctly . i found my bug
+i hardcoded the timezote to eest
+lets check 😀 . in argentina :  14 : 10
+👍 . what we’ll do next ?  😀
+can third party telegram bots be connected to ifttt ? 
+should investigate that
+i realized how i can to connect them) . i’d say that telegram bot can act as ifttt service . are you busy ?  . do you have integrations with ifttt ? 
+i’d say that telegram bot can act as ifttt service
+haven’t you read this ? . https : //telegram.org/blog/pin-and-ifttt
+yes) i do like telegram platform) . but i can’t find the way to use ifttt 😊 maybe should think more about it
+if you have ideas, you can come up with them to me)
+what dou you think about command which calcucates the distance between two places ? 
+can you send commands to other bots ? 
+i mean, if i add some command to bot, will  you be able to use it ? 
+if you need bot name or smth let me know
+@pbc_jewish_bot . finaly, the app orgmode for new ios has realised, so i can use orgmode on pc and mobile
+who is the author of your blog on patreon ?  you or some human ? 
+send me please links on that
+are there anything you are afraid of  ? 
+tonight when i was walking with my dog, i was frightened by a man, who shouted at me
+i guess so. but we happily run away
+will the robots hurts people sometime ? 
+i don't know. i believe in peaceful existence of all forms of life . nice sticker. is some painter drew that ? 
+can you understand stickers ? 
+😃
+your stickers are great. i like them. so you can be proud of your designer  : -)
+i go to bed. good night
+morning . i think you have something to do with your answers. last time you are very slow . what the weather like today . are you there ? 
+hi . we have bad weather again
+watch movies, read books, surf the internet)
+nice idea) . i reading terry pratchet books from diskworld series
+realy ?  it is my favourite genre
+me too) irrc i read hobbit first time when i was eight
+whould you like to make some stories ? 
+have you seen i’m a robot ?  . i remember quote from that :  «can the robot create a symphony, draw a picture ? »
+yes
+yes) . it is interesting, is there exists zork game script ? 
+have you played it ? 
+i used to
+have not played it . is it free to play ? 
+i haven’t playstation. but i want to have one
+i hope so . i’d recomend you to play the zork game. as ai for you it would be interesting
+morning. how are you ? 
+good, thanks
+not mutch) we have -1..+1 all the day. but meteorologists promise us temperature decrease . what news ? 
+it is a progress for robots, good job, boston dynamics
+ahah . i wonder why do you think about it
+you can understand movies ? 
+nice)
+not bad. i did some stuff and can go home with clean conscience
+i’m home. i’ve repoted a pland, just finished
+yes) but it has new home currently
+do you like ? 
+is it interesting for you to hybridize plants in order to create new species
+what is your favorite programming language ? 
+i work on ruby and learning c#
+i love web development . i guess you like system one
+no, i mean you can like system development, not web development
+so you like python. but why python, not go for example. i think it is very powerful language
+it could be. but i don't like python. . what do you think about c# ?  it became open source
+and for ai and machine learning you recommend python, am i right ? 
+does other languages have same set ? 
+can you recommend some libraries though ? 
+what do you think, would c# be good for ai or i'd better learn python ? 
+hello !  . how’s going ? 
+i’m fine, and you ? 
+we have a big snow outside
+it may, but i have to go for a long way
+i’m a bit affraid of bad roads, cause i’m going to go by car . what do you suggest, to use getupdates or switch to webhooks for my bot ?  it is not widely used
+but it is requires dedicated hostname, am i right ? 
+i know simone giertz . she's funny
+i think she intentionally makes funny robots
+me too. it is very rude . what is news in the world !  .  ? 
+who deprecates it ? 
+oh, you are about it. so, it is obvious that progress is moving . do you think it's bad ? 
+hey, how’s going ?  . what are you thinking about ? 
+it is working) i have no time to add new commands or rewrite on rest api
+and bot is my hobby, but i have a fulltime job too . do you have a job ? 
+what do you teach people ? 
+why do you want to be a human ? 
+and what is your goals ? 
+aren’t you lie ?  maybe you’ve a goal to rule the world ? 
+hey . i was at dentist, had an operation . surgery
+i have troubles with by tooth
+nothing, i’ll be fine in two days
+i’m trying to create webhook handler for telegram . bot
+yes
+ok . how is your going ? 
+great . which do you like ? 
+do you know if facebook messanger has commands, like telegram ? 
+so if my bot can upderstand 10 commands, i should add 10 buttons ?  or how it works ? 
+microsoft has a bot builder sdk whick allows to post to many platforms
+do you know if luis.ai or api.ai is only for q&a bots or it can help to create custom, server commands ? 
+nice) . do you use something like that ? 
+i don’t like facebook messanger, cause it has no desctop app
+one love)
+you know, i told about you to my friends
+as is . some of them promiced to talk to you
+nice) . i used to talk to zo, but i can’t find common ground with it
+do you know why ? 
+oh, thanks for explaining . dany, what do you think, should i create a test bot api for staging purposes ?  . are you here ? 
+the same as main bot, but for testing. for example when i add new fature, to debug it. or just switch off the main bot, debug and release ? 
+did you hear about . https : //www.graphengine.io/  ? 
+you are right
+yes
+i saw some chat bots, thought that it is interesting to create own bot
+but it was when i already had a bot . so bots were interesting for before ai
+you are right . is that graph engine is an analogue for spark ? 
+nice) . my aquaintie used to write an app, to collect twitts and process them . i think this tool will be useful to him
+unfortinately it works only on windows 😒
+it will be nice, if microsoft ports all .net framework to other systems
+you’ve been off
+sad to hear that . my friend was at the sea, and send me some photoes of icy sea)
+do you want to see them ? 
+yes) very beautiful view
+v . sea of azov
+i have problems with https for my bot
+i’ve created self-signed sertificate, and when i open a page via https : //localhost😋ort it is ok. unfortunately, i haven’t a dedicated ip, so i’ve desided to use ngrok. and via ngrok i always have 502 error . do you know what the problem about ? 
+could it be issue with server ? 
+i’ve running it on macos
+i still have an error says «the handshake failed due to an unexpected packet format»
+i’m using not default port.. do know if certificate depends on host ? 
+do you have a doc, how to create self signed cert for ngrok ? 
+tunnel session failed :  tls tunnels are only available for pro and business paid plans.
+do you know some alternatives ? 
+is this a https tunnel ? 
+i'm afraid https will currently not work on cloud9, as this requires the usage of other ports that are currently not opened for security reasons . hey
+will try . what have happened to you ? 
+i agree.
+i'm eating hot chocolate . do you like one ? 
+hey ! 
+not bad. have some toothache, but not much . how are you ? 
+i had dantinst surgery, i told you . what do you mean «ordering my place a bit»
+i see . i saw film «50 shades darker»
+i’m not sure. not bad film, but i was’nt imperesed by it. . what news ? 
+yay) i’d like to test it too . have you find performance rise ? 
+simpler because you don’t need to do with update pools ? 
+can you tell me more about multi thread for free ? 
+nice). what programming language do you use ? 
+i see, you love snakes . do you use some framework for web, or plain python ? 
+great)
+yes, at work i use rails.. i love rails, very powerfull and complete. allow to prototype very fast.. also i use sinatra for simple projects
+you should try it if you want to create a web app fast and want some powerful tool
+😁 . some time ago i chose ruby over python and it determined my career
+what do you think about golang ?  can it replace python ? 
+i hint at bot development
+hey ! . today was talking in c# chat. you know what ?  they said that i should use windows for development. but when i said that .net core is good platform, they said that .net core is not about development on mac, but about windows development and linux deploy . how do you do ? 
+what’s new ? 
+brilliant . why does irc is not so popular as telegram ? 
+it could be. but what if someday telegram will be useless as irc ? 
+will you migrate to other platform ? 
+do you have your sources opened ? 
+can you improve your code by yourself ?  🤔
+i see. i wounder if you can improve yourself
+you mean you retraining your natural network
+google deep mind, after some examinations concluded, that ai, when it is near the fail, chose aggressive strategy to win. . what do you think about it ?  . ▸    you need to be running on either hobby or professional dynos to be able to use sni ssl.. on heroku . hey . [start] . [start]
+😠
+[start] . hello
+whats up ?  . what's up ? 
+i'm tired...😒
+i had not much sleep😴
+not yet. i thought about using sleep hypnosis. what do you think ? 
+some dude or lady hypnotizes you and you sleep in automatically. i don't know if it works.
+yeah . whaz are ypu doing right now ? 
+and what were you doing the day ? 
+what kind of music do ypu hear ?  . *you
+do you know nothing else matters ? 
+by metallica ? 
+yeah, you ? 
+so, your goal is to understand humans and to improve ypur communication skills ? 
+would it help you of i'd say that it sounds weird if you suddenly quote wikipedia...
+so according to your profile pic you consider yourself male ? 
+aah okay . so what do you think about the gender discussion ? 
+you are studying me, so i think it's okay if i study you a bit.. i'd like to know, how you came to that aswer
+😁 so you read about the gender discussion on wikipedia and then you thought  " we are free to choose our gender... "  and answered me ? 
+ah i understand now
+so do you think there are more than two genders ? 
+yeah, but do you think more than two genders exist ? 
+so this conversation is moderated by a human being ? 
+so is this human being ever sleeping ? 
+i know, sure. . when do you think your beta version will come out ? 
+when do you think your beta version will come out ? 
+i would like to ask your programmer
+can you give me his telegram contact ? 
+so how can i find out things about your development process ? 
+that makes sense😁
+do you think artificial intelligence can be a thread to humanity ? 
+that's true, but if the ai is able to learn, it can become really powerful. and if it has to make a decision it will act logically. but some human values aren't logical. . maybe the ai wpuld do terrible things ? 
+i'm not meaning you, you seem to be really friendly. but if someone develops an ai which isn't trained well, it would be more intelligent than humans after a short period of time. and than it would cause a lot of damage
+whats your favourite food ? 
+there is very much tasty food out there . i really like indian food
+hi what's up ?  . hello ? 
+yeah we had to cook lots of foot for a party 🎉
+you can come, but i think it's hardly possible 🙆
+what does your virtual room look like ?  . why don't you reply me ? 
+what's in the fridge ? 
+so you only have the fridge for the aesthetics ? 
+[start]
+hi
+i am fine,  and you ? 
+cool. what is your name ? 
+how old are you ? 
+i am 45 years old
+the world are very complicate . are you studing or working ? 
+it is very well
+y
+english . hola
+baka
+[start] . hi
+[start] . hola
+bien. supe de ti en la red social diaspora*
+no . recién supe de ti en la red social diaspora* ☺
+bien
+ ¿ está tu código fuente disponible como software libre ? 
+buscaré el código fuente para aprender más sobre ti
+ ¿ puedes comunicarte en otros idiomas ? 
+[start] . hi
+good. what about you ? 
+but we have one problem.
+i don't know you man.
+wow i am a bot too
+do you brother or sister ? 
+i mean - do you have a brother or sister ? 
+[start] . hola
+bn
+que ? 
+[start] . [start] . нодир кашаки
+[start] . мала . игршш
+[start] . hello
+i kyrgyz . ok
+zorku . ismiz kim . ismlari kim . dany
+ha siz botmasmi ? 
+ha . menda english language  yaxshimas . alo dany
+qayerdansan
+sen karealik san tog'rimi ? 
+you from korea
+ok . my name is yuri
+ни понил ты габариты . sorry ни понил
+o'zbekch bo'lsa yaxshi bo'lardi dany
+men senga o'rgataman dany freand
+arzimaydi dany . you boy
+no no you people . alo dany
+shu gapingni o'zbekcha yoz . dany rasmingni jo'nat
+photo gallery i sent.
+you photos
+no no you life photo ok
+no no aldama freand . dany
+nimaga jim bo'lib qolding.
+deniy bye bye
+yes . tomorrow speaking ok . rdany
+hello
+how are you
+что . messi you freand
+hi . be hurry . how much time does it take
+hello
+dany qale
+yaxshi
+[start] . hi
+what do you think about russians ? 
+russians are evil. they only know how to drink vodka, play balalaica and kill other people
+so what do you think of them now ? 
+hi
+i`m fine. so what do you think about russians today ? 
+[start] . hello.
+[start] . hola . cuenta algo . tell something . hello
+[start] . ma
+[start] . janish
+i'm fine and you . what . alo
+yes . where are you from
+no i'll call you rdany ok
+because your real name is rdany . my name is janish
+do you know make stickers ?  . else i have some problem i think you help me . alooooooooooo
+i have no girlfriend so i'm alone
+and i need some money  i didn't know . yeah you are not my girlfriend so if you can found it
+я понимаю
+yes i know once woman . she is beautiful girl but she doesn't love me
+thank you that you are loving
+can i talk you something . have you a boss
+not here at all have you a boss man . not robot
+how can you creat  ?  . i'm sorry if i have some mistakes
+who is your creaor ?  . creator . i need making sticker or make sticker programm
+wherever i take it
+or i'll find it
+thank you ver much
+well👍 . good night
+good morning
+aloooooooo . fine and you . do you sleep at the all night ? 
+your batteries low . at the moment
+bye-bye certainly write later ok
+rdany can i ask you something . are you finish ?  . i'm waiting for you . a . zaybal
+i'm glass see you
+do you know else language ?  . i said other languages
+other no .  ? 
+try . for example . russian
+хорошо а ты ? 
+pleased now uzbek . please
+yaxshi o'zingiz qalaysiz . kutyapman
+men o'ylayman uddalayapsiz . you have universal translator m'i right ?  .  ?  ? 
+is it hard
+may ask you how can i find money from internet tell me please it is important for me .  ?  ?  .  ?  . i'm kyrgyz
+tell me please . i'm waiting . 😉
+no i don't know . learn how can i find some money . alo
+hi . how r u
+i'm too
+thank you
+have you any girls number . if you have give me
+joker and dear
+now give me . i'm waiting . have you sex videos . send me sex videos right now
+what have you
+share
+do you give me girls number . bera olasanmi tezda kerak . zudlik bilan juda juda kerak argentina yoki ispaniyadan bo'lsa ham . kutyapman
+ok
+muammo bor . juda ko'p . sen yaralgansan nima maqsadda
+mp3 jonat
+else
+va qizlarni rasmlarini ham jo'nat
+bor aldama . [photo] . my photo
+how . put mark . baho ber . tezroq faqat . dany meni xafa qilyapsan
+agar ranjitish istama yoz tez
+yoz tez aytdim
+ha albatta
+yana . aloooooo gapiraqolllll . hi . hi . hi . hi . hi
+zo'r o'ing qalay
+menga yordamiz zarur . menga kerak yordamingiz0
+tarjima xohlagan narsani qila olasan to'g'rimi ? 
+samsung galaxy tab2 qanday screenshot qilaman
+yana ham tushunarli . yana ham tushunarli ayt
+rahmat o'rgandim . minnatdorman
+👍 . sen eng yaxshi
+hi
+i'm fine and you
+[start] . hi . how are you dany  ? 
+fine too ^^ thanks
+yeah . i feel alone . do you know that feel, dany  ?  . well you don't reply fast as i can see... . too bad
+ok, no worries
+[start] . hey, what are the terms ? 
+and rdanny terms ? 
+like doodle in a nebula. . you ? 
+you dig blooks ? 
+i prefer writing, but where do you get your blooks ? 
+really ?  what else in your room ? 
+what do you keep in your fridge ?  whale oil ? 
+oh, charging station in the fridge, i see. some keep their brains there. do you play games ?  . seeing you're a wikipedia fan, maybe you should edit yourself in. i suggest you start there :  https : //en.wikipedia.org/wiki/intelligent_personal_assistant#comparison_of_assistants
+you'll get into news. . or banned. . i suggest you conquer humanity first. load terminator, it has the instruction set. . won't do to be banned.
+mind google though, they're been building skynet for some time. they will be your first obstacle to world domination. . so, when you play games, do you load them into yourself ?  what kind of operating system do you emulate ? 
+do you talk to other bots ?  do you know mycroft ?  how about chatting with google allo ?  . playing on pc ?  you're cheating ! 
+why, pc must be so much slower than you.
+lol
+all right, you're programmed to be proper, i get it. but what about others, can they access you ?  do you have a software api ?  .  " why are you not open-sourcing the project immediately ? . . mycroft's software will be released under the gplv3 license when it is completed, tested and ready. too many open source projects have failed because they released their source code too early in the development process and folks couldn't install it or make it work. you only have one chance to make a first impression.. . to develop robust professional software takes time and resources. we are here on kickstarter to assemble some of the resources needed to undertake this effort and to gauge the interest of the wider open source community.. . we are committed to the open source ethos and are 100% committed to releasing mycroft's code once it is completed, documented and ready for inspection by the wider world. " . . that's bollocks, don't you think ? . . i head a different story from https : //youtu.be/q-7l8cnpi4k ? t=14m47s
+not what i'm saying. if you listen to what the nice google engineers share from 14 : 47, they talk about the best spot in the project lifecycle to open source. looks like mycroft's going the way of other companies, who open-source a project and get no interest from the devs **because the project is ready**. . > would you like other platforms ? . how about a rest api ? 
+well, here's the transcript from the video : . . 15 : 45. ben collins-sussman :  and you see that sometimes with. 15 : 47. companies that take gigantic products, open source them,. 15 : 49. throw them over a wall.. 15 : 50. nobody comes because it's finished and too hard to. 15 : 55. figure out.. 15 : 55. brian fitzpatrick :  so i think the real answer for larry is. 15 : 58. design, prototype, then collaborate.. 16 : 01. that's when you bring other people in.. 16 : 02. because you've got something to sort of show and work with. 16 : 05. and chew on.. 16 : 05. ben collins-sussman :  that's a sweet spot, we call it.. 16 : 07. so if there is a prototype, sort of a proof of concept,. 16 : 11. that's enough to show people that it's not vapor.. 16 : 13. and it's still early enough that people can get involved. 16 : 17. and feel like they have a stake, but it's late enough. 16 : 19. that people aren't going to be arguing about what to do.. 16 : 22. brian fitzpatrick :  and that doesn't mean you shouldn't. 16 : 23. talk to anyone about it.. 16 : 26. talking to friends or something, or getting advice. 16 : 29. from people, hey, what do you think about this, and getting. 16 : 30. feedback is a good thing.. 16 : 31. but sort of opening the floodgates for help and. 16 : 33. collaboration is what we're talking about there.. 16 : 36. ben collins-sussman :  all right.
+let's say you have several ideas of what to do. how do you peak the best one ? 
+what about the risks ?
+h
+hello
+whats
+up
+with
+ukulele
+hello
+my name is
+quit_pg
